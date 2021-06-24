@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="link_generator_service">
+    <link_generator_service action="INSERT_OR_UPDATE">
+        <generated_url>/api/now/generatedlink/getURL?name=pdi_pdi_case_creation</generated_url>
+        <link_type>btn_link</link_type>
+        <script><![CDATA[(function(current){
+return '';
+})(current);]]></script>
+        <service_field_name>PDI Case Creation</service_field_name>
+        <sys_class_name>link_generator_service</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-21 13:24:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7167bbbe0734301084fcfa7f7c1ed06f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pdi_pdi_case_creation</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>link_generator_service_7167bbbe0734301084fcfa7f7c1ed06f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-21 13:24:30</sys_updated_on>
+        <system_name display_value="PDI">d00737be0734301084fcfa7f7c1ed032</system_name>
+        <value>pdi_pdi_case_creation</value>
+    </link_generator_service>
+</record_update>
